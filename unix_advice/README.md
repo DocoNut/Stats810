@@ -12,6 +12,10 @@ Same goes for R, but frankly, Python is just easier to use in a Unix/server envi
 
 ----
 
+* I don't know anyone who has ever regretted learning to use the command line.
+
+----
+
 1. Customize your '.bash_profile' or '.zshrc'
 
 2. Keep all files you care about backed up on the cloud, e.g., GitHub or Dropbox. Then, you can use 'rm -rf' as much as you like!
@@ -19,4 +23,6 @@ Same goes for R, but frankly, Python is just easier to use in a Unix/server envi
 3. Keep a file, or files, recording useful commands and installation procedures.
 
 4. Invest in CLI until it is quicker than GUI for you. From then on, enjoy the payoff!
+
+5. Learn IDEs as well (e.g., vscode) but not at the expense of CLI.
 
